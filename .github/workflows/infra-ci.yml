@@ -1,0 +1,1 @@
+name: Infra CI\non: [push]\n jobs:\n   tf-fmt:\n     runs-on: ubuntu-latest\n     steps:\n       - uses: actions/checkout@v4\n       - name: terraform fmt\n         run: terraform fmt -check -recursive\n

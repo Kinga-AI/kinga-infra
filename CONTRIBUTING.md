@@ -1,0 +1,1 @@
+# Contributing\n\nDCO required. Run `git commit -s`.

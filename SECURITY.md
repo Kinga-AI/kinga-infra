@@ -1,0 +1,1 @@
+# Security\n\nReport to security@kinga.ai
