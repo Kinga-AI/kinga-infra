@@ -1,0 +1,1 @@
+# Code of Conduct\n\nContributor Covenant v2.1
